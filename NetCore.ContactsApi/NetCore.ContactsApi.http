@@ -1,0 +1,6 @@
+@NetCore.ContactsApi_HostAddress = http://localhost:5193
+
+GET {{NetCore.ContactsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
